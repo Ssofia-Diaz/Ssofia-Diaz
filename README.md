@@ -1,4 +1,4 @@
-## HOLA LINd@S
+## Hola lind@s
 🇨🇴🩷🇦🇷
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
